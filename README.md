@@ -1,7 +1,7 @@
 # Privacy Policy — Underdraw
 
 **Effective date:** 5 October 2026
-**Last updated:** 5 October 2026
+**Last updated:** 9 October 2026
 
 Underdraw ("the app") is made by docren155, an independent developer ("I", "me"). This policy explains what happens to your information when you use the app on iPhone or Android.
 
