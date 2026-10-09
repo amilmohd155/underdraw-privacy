@@ -7,7 +7,7 @@ Underdraw ("the app") is made by docren155, an independent developer ("I", "me")
 
 **The short version:** Underdraw works offline. It has no accounts, no ads, no analytics and no tracking. Your photos and drawings stay on your phone. I never see them, sell them or share them.
 
-If you have questions, email me at amilmohd155@gmail.com.
+If you have questions, email me at doclabs155@gmail.com.
 
 ---
 
@@ -49,7 +49,7 @@ Underdraw is a drawing app that can be used by people of all ages, including chi
 - Camera pictures and chosen photos stay on the phone.
 - The only internet use is the update check described in section 2, which uses a random app ID only to deliver app updates and is never used to identify, contact, track or advertise to anyone.
 
-I follow Google Play's Families Policy. If you are a parent or guardian and have a question about your child's use of the app, email amilmohd155@gmail.com.
+I follow Google Play's Families Policy. If you are a parent or guardian and have a question about your child's use of the app, email doclabs155@gmail.com.
 
 ## 5. How your information is stored and kept safe
 
@@ -69,7 +69,7 @@ The app asks for permission before using the camera or your photo library, and e
 
 ## 8. Your rights
 
-Depending on where you live (for example, in the European Union, the United Kingdom or California), you may have rights to access, correct, delete or move your personal information, or to object to how it is used. Because the app does not send your personal information to me, I usually have none to provide or delete. You can still contact me at amilmohd155@gmail.com with any request or question, and I will reply within 30 days. You may also complain to your local data protection authority.
+Depending on where you live (for example, in the European Union, the United Kingdom or California), you may have rights to access, correct, delete or move your personal information, or to object to how it is used. Because the app does not send your personal information to me, I usually have none to provide or delete. You can still contact me at doclabs155@gmail.com with any request or question, and I will reply within 30 days. You may also complain to your local data protection authority.
 
 ## 9. Changes to this policy
 
@@ -78,5 +78,5 @@ If I change how the app handles information, I will update this page and the "La
 ## 10. Contact
 
 Amil Muhammed Hamza (docren155)
-amilmohd155@gmail.com
+doclabs155@gmail.com
 India / Mayyil, Kannur, 670602
